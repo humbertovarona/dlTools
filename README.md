@@ -45,4 +45,3 @@ export PATH = $PATH:$HOME/bin
 ```sh
 # downloadAllFiles_by_pattern.sh ".nc" https://data.nodc.noaa.gov/pathfinder/Version5.2/1982/ . 2 <Enter>
 ```
-
