@@ -40,9 +40,9 @@ export PATH = $PATH:$HOME/bin
 # downloadAllFiles_by_Ext.sh ".nc,.jpeg,.zip" https://data.nodc.noaa.gov/pathfinder <Enter>
 ```
 
-## Downloaded in the current directory all the .nc, .jpeg and .zip files from the website https://data.nodc.noaa.gov/pathfinder entering two directory levels
+## Downloaded in the current directory all the .nc, and .zip files from the website https://data.nodc.noaa.gov/pathfinder/Version5.2/1982/ entering two directory levels
 
 ```sh
-# downloadAllFiles_by_pattern.sh ".nc,.jpeg,.zip" https://data.nodc.noaa.gov/pathfinder/Version5.2/1982/ . 2 <Enter>
+# downloadAllFiles_by_pattern.sh ".nc,.jpeg" https://data.nodc.noaa.gov/pathfinder/Version5.2/1982/ . 2 <Enter>
 ```
 
